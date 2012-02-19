@@ -86,6 +86,7 @@ mod logging;
 mod comm;
 mod task;
 mod future;
+mod task2;
 
 // Compiler support modules
 
